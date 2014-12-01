@@ -9,4 +9,4 @@ twitter_username: spreecommerce
 github_username: spree
 # Build settings
 markdown: kramdown
-  input: GFM
+  input: GFM    
