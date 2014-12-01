@@ -3,7 +3,7 @@ title: Spree Developer Site
 email: info@spreecommerce.com
 description: > # this means to ignore newlines until "baseurl:"
   Developing with Spree? Want to contribute? This is the site for you! By Spree developers for Spree developers
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "dev_site" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: spreecommerce
 github_username: spree
