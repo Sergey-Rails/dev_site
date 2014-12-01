@@ -10,3 +10,4 @@ github_username:  spree
 
 # Build settings
 markdown: kramdown
+  input: GFM
