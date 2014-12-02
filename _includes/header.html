@@ -1,3 +1,5 @@
+{% assign current_section = page.section | downcase %}
+
 <header class="site-header">
 
   <div class="wrapper">
@@ -16,6 +18,13 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title != null and page.nav %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="sub-menu">
+        {% for page in site.pages %}
+          {% if page.section == current_section and page.nav == null %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
