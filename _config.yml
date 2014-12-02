@@ -11,3 +11,6 @@ github_username: spree
 markdown: kramdown
 kramdown:
   input: GFM
+collections:
+- active_members
+- legacy_members
