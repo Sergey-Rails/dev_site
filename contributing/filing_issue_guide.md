@@ -1,5 +1,6 @@
 ---
 layout: page
+section: contributing
 title: Filing an Issue
 permalink: /filing-an-issue-guide/
 ---

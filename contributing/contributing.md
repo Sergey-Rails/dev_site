@@ -1,6 +1,7 @@
 ---
-section: contributing
+nav: contributing
 layout: page
+section: contributing
 title: Contributing
 permalink: /contributing/
 ---

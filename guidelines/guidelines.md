@@ -1,7 +1,9 @@
 ---
+nav: guidelines
 layout: page
-title: Documentation Guidelines
-permalink: /documentation-guidelines/
+section: guidelines
+title: Guidelines
+permalink: /guidelines/
 ---
 
 Improvements to the documentation are encouraged. The primary source of documentation are the [guides](http://guides.spreecommerce.com). You may make edits to the guide in your fork and then pull request for them to be updated to this site.

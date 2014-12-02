@@ -1,5 +1,6 @@
 ---
 layout: page
+section: contributing
 title: Pull Requests
 permalink: /pull_requests/
 ---

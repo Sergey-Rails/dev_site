@@ -1,8 +1,9 @@
 ---
-section: docs
+nav: docs
 layout: page
+section: docs
 title: Docs
 permalink: /docs/
 ---
 
-# Langing page for docs goes here
+# Landing page for docs goes here
