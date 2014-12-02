@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pull Requests
-permalink: /pull-requests/
+permalink: /pull_requests/
 ---
 
 We gladly accept [pull requests](https://help.github.com/articles/using-pull-requests) that add documentation, fix bugs and, in some circumstances,

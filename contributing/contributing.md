@@ -1,6 +1,7 @@
 ---
+section: contributing
 layout: page
-title: Contributing to Spree
+title: Contributing
 permalink: /contributing/
 ---
 
