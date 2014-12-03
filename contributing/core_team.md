@@ -46,6 +46,7 @@ There are over six hundred different contributors to the Spree project. The core
     </span>
     {{member.github}}
   </a>
+{% if member.twitter != '' %}
   <a href='http://twitter.com/{{member.twitter}}'>
     <span class="icon  icon--twitter">
       <svg viewBox="0 0 16 16">
@@ -55,4 +56,5 @@ There are over six hundred different contributors to the Spree project. The core
     </span>
     {{member.twitter}}
   </a>
+  {% endif %}
 {% endfor %}
