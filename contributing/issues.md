@@ -41,6 +41,10 @@ Issues that are actively being investigated fall into this category. Once in pro
 
 **Failing**
 
+**Reopened**
+
+The issue has been reopened. This issue will be applied automatically by Spreebot whenever an issue is reopened in Github.
+
 ### Rejected
 
 Issues can be rejected for a variety of reasons. If your issue has been rejected you are encouraged to reopen it once you have addressed the reasons for rejection.
