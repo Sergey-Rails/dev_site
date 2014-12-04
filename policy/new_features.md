@@ -27,6 +27,12 @@ A feature is any change to the code that does not fall under the definition of a
 
 New features must always added through a [pull request](/pull_requests). This accomplishes two objectives. The first is that it provides transparency and an opportunity for public debate. The second is that it ensures that we maintain a high quality of code since all pull requests are carefully vetted before they are merged.
 
+#### Master Branch Only
+
+New features are never added to a stable branch. Ever. No exceptions. New features are always based on the master branch. Generally we are only workign on one minor/major release at a time and that work will always be reflected in the master branch.
+
+In certain rare cases we may be working on a minor release in master and a follow up release in some other non-master branch. In these cases those "future feature" branches should not use version numbers in their names and the words "stable" should never appear in the name of the branch. These brances should be considered temporary and ultimately must be merged into master before they can be released.
+
 #### All Tests Must Pass
 
 All pull requests are automatically run against our [full test suite](https://circleci.com/gh/spree/spree). Github will provide an indication of whether or not the tests are passing and let you know it's safe to merge.
