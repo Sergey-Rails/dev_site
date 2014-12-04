@@ -31,7 +31,7 @@ During the lifecycle of an issue it may be assigned one or more labels. The foll
 
 _Please do not assign labels or create new labels to your issue. We will assign the appropriate labels to ensure your ticket is handled in the appropriate manner._
 
-### In Progress
+### Triage
 
 Issues that are actively being investigated fall into this category. Once in progress an issue is either rejected or closed.
 
