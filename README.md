@@ -15,7 +15,7 @@ be available at [http://localhost:4000](http://localhost:4000) without the
 project-name suffix
 
 ```shell
-bundle exec jekyll serve --baseurl ''
+bundle exec jekyll serve
 ```
 
 # Contributing
