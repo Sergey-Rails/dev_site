@@ -49,7 +49,7 @@ The issue has been reopened. This issue will be applied automatically by Spreebo
 
 Issues can be rejected for a variety of reasons. If your issue has been rejected you are encouraged to reopen it once you have addressed the reasons for rejection.
 
-**WorksForMe**
+**Works For Me**
 
 **Steps**
 
@@ -59,11 +59,11 @@ You need to provide a detailed set of steps to reproduce the problem. It should 
 
 Please include the exact version of Spree you are using (or git ref if you are working against a branch). We will need this information in order to verify the bug.
 
-**ExpectedBehavior**
+**Expected Behavior**
 
 In additon to describing the observed behavior you need to describe how this differes from what you expect the behavior to be. Providing this information helps save us time when trying to reproduce your problem.
 
-**FeatureRequest**
+**Feature Request**
 
 ### Closed
 
@@ -75,7 +75,9 @@ Issues in this category are no longer active and unlikely to be reopened.
 
 Any issue that is open for 14 days without actionable information or activity will be marked as "stalled" and then closed. Stalled issues can be re-opened if the information requested is provided.
 
-**Closed**
+**Not a Bug**
+
+A determination has been made that the observed behavior is not a bug and therefore barring new information, the issue will not be fixed.
 
 ## How We Prioritize Issues
 
