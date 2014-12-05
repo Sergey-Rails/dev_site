@@ -39,8 +39,6 @@ Issues that are actively being investigated fall into this category. Once in pro
 
 **Verified**
 
-**Failing**
-
 **Reopened**
 
 The issue has been reopened. This issue will be applied automatically by Spreebot whenever an issue is reopened in Github.
@@ -49,11 +47,9 @@ The issue has been reopened. This issue will be applied automatically by Spreebo
 
 Issues can be rejected for a variety of reasons. If your issue has been rejected you are encouraged to reopen it once you have addressed the reasons for rejection.
 
-**Works For Me**
-
 **Steps**
 
-You need to provide a detailed set of steps to reproduce the problem. It should be possible for another developer to reproduce the problem on using a clean install of (no extensions or customizations) if they follow your steps and use the Spree version specified.
+You need to provide a detailed set of steps to reproduce the problem. It should be possible for another developer to reproduce the problem using a clean install of (no extensions or customizations) if they follow your steps and use the Spree version specified.
 
 **Version**
 
@@ -69,8 +65,6 @@ In additon to describing the observed behavior you need to describe how this dif
 
 Issues in this category are no longer active and unlikely to be reopened.
 
-**Solved**
-
 **Stalled**
 
 Any issue that is open for 14 days without actionable information or activity will be marked as "stalled" and then closed. Stalled issues can be re-opened if the information requested is provided.
@@ -78,6 +72,9 @@ Any issue that is open for 14 days without actionable information or activity wi
 **Not a Bug**
 
 A determination has been made that the observed behavior is not a bug and therefore barring new information, the issue will not be fixed.
+
+**Works For Me**
+
 
 ## How We Prioritize Issues
 
