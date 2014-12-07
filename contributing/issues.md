@@ -41,7 +41,7 @@ Issues that are actively being investigated fall into this category. Once in pro
 
 **Reopened**
 
-The issue has been reopened. This issue will be applied automatically by Spreebot whenever an issue is reopened in Github.
+The issue has been reopened. This label will be applied automatically by Spreebot whenever an issue is reopened in Github.
 
 ### Rejected
 
