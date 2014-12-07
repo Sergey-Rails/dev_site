@@ -37,7 +37,11 @@ Issues that are actively being investigated fall into this category. Once in pro
 
 **Unverified**
 
+This is the default label that will be applied by Spreebot whenever an issue is created in Github.
+
 **Verified**
+
+We manually verified and reproduced the issue. We might ask and encourage you to provide a [pull request](/pull_requests) to fix the problem reported.
 
 **Reopened**
 
@@ -49,7 +53,7 @@ Issues can be rejected for a variety of reasons. If your issue has been rejected
 
 **Steps**
 
-You need to provide a detailed set of steps to reproduce the problem. It should be possible for another developer to reproduce the problem using a clean install of (no extensions or customizations) if they follow your steps and use the Spree version specified.
+You need to provide a detailed set of steps to reproduce the problem. It should be possible for another developer to reproduce the problem using a clean install (no extensions or customizations) if they follow your steps and use the Spree version specified.
 
 **Version**
 
@@ -60,6 +64,8 @@ Please include the exact version of Spree you are using (or git ref if you are w
 In additon to describing the observed behavior you need to describe how this differes from what you expect the behavior to be. Providing this information helps save us time when trying to reproduce your problem.
 
 **Feature Request**
+
+To discus a new feature for Spree please use the [spree-user mailing list](http://groups.google.com/group/spree-user) to discuss it, or open a [pull request](/pull_requests) with code for the new feature you would like to see in Spree.
 
 ### Closed
 
@@ -75,6 +81,7 @@ A determination has been made that the observed behavior is not a bug and theref
 
 **Works For Me**
 
+We could not reproduce this issue on a clean install.
 
 ## How We Prioritize Issues
 
