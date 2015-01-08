@@ -5,7 +5,7 @@ title: Maintenance
 permalink: /maintenance/
 ---
 
-reSpree is written and maintained by a community of volunteer software professionals. We have written this software in our free time and we our sharing it with you free of charge.  You're welcome.
+Spree is written and maintained by a community of volunteer software professionals. We have written this software in our free time and we our sharing it with you free of charge.  You're welcome.
 
 ## Supported Versions
 
