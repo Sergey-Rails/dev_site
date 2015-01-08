@@ -11,12 +11,12 @@ permalink: /contributing/
 You’re here to help, great. We’re here to help you help us. Spree is an open source project. Anyone can use the code, but more importantly, anyone can contribute. This is a group effort and we value your input. Please consider making a contribution to help improve the Spree project.
 
 Before you start, we’ll ask you to do a bit of reading.
-You will find all you need in this book. Don't worry, it's not much :)
+You will find all you need on this site. Don't worry, it's not much :)
 
 * Contributor guidelines
-* Style issues, we’ve got your back. Have a look here.
-* Not sure what to work on?
-* Rules! We’ve got rules. We really want your help, but we’ve got some standards to uphold. Please make sure your contribution doesn’t break any of these.
+* Style issues, we’ve got your back. Have a look [here](/code_style).
+* Not sure what to work on? See below
+* Rules! We’ve got rules. We really want your help, but we’ve got some standards to uphold. Please make sure your contribution doesn’t break any of these. You can find our rules [here](/rules)
 
 Phew, now that that’s out of the way, what are you waiting for? Start contributing!
 
