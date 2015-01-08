@@ -11,7 +11,5 @@ Before you send a pull request, there are a few things that you can do yourself
 to make sure that the rules are not broken.
 
 ## Rubocop
-HoundCI uses [Rubocop](https://github.com/bbatsov/rubocop) to check for ruby syntax,
-we added the [Rubocop rules](https://github.com/spree/spree/blob/master/.rubocop.yml)
-in Spree so you can run the checks manually before submitting a pull request.
+HoundCI uses [Rubocop](https://github.com/bbatsov/rubocop) to check for ruby syntax, we added the [Rubocop rules](https://github.com/spree/spree/blob/master/.rubocop.yml) in Spree so you can run the checks manually before submitting a pull request.
 See the Rubocop [documentation](https://github.com/bbatsov/rubocop#basic-usage) on how to run it locally.
