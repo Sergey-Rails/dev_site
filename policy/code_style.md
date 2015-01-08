@@ -5,9 +5,7 @@ title: Code Style
 permalink: /code_style/
 ---
 
-We follow the [Thoughtbot Styleguide](https://github.com/thoughtbot/guides/blob/master/style/README.md)
-. This will be enforced for every pull request. We use [HoundCI](https://houndci.com) for that, so when
-you violate a style rule there will be a comment on that specific line in your pull request.
+We follow the [Thoughtbot Styleguide](https://github.com/thoughtbot/guides/blob/master/style/README.md). This will be enforced for every pull request. We use [HoundCI](https://houndci.com) for that, so when you violate a style rule there will be a comment on that specific line in your pull request.
 
 Before you send a pull request, there are a few things that you can do yourself
 to make sure that the rules are not broken.
