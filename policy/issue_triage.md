@@ -88,6 +88,38 @@ Spreebot will automatically close the ticket and give it the 'expected behavior'
 
 ![Expected label](/assets/expected_behavior.png)
 
+#### **Address Feedback**
+
+```
+reject:address_feedback
+```
+
+Spreebot will automatically close the ticket and give it the 'address feedback' label.
+
+![Expected label](/assets/address_feedback.png)
+
+#### **Discussion**
+
+```
+reject:discussion
+```
+
+Spreebot will automatically close the ticket and give it the 'discussion' label.
+
+![Expected label](/assets/discussion.png)
+
+
+#### **Need specs**
+
+```
+reject:need_specs
+```
+
+Spreebot will automatically close the ticket and give it the 'need_specs' label.
+
+![Expected label](/assets/need_specs.png)
+
+
 ## Closed Issues
 
 Issues have an intentionally short lifecycle in our project. We need to focus on issues that have been verified and have the potential to be acted upon immediately. We need to be very aggressive in closing issues or it becomes impossible to stay on top of what is important.
